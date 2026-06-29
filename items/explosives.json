@@ -2,7 +2,7 @@
   {
     "id": "grenade",
     "copy-from": "grenade",
-    "type": "TOOL",
+    "type": "ITEM",
     "name": { "str": "M67 grenade" },
     "description": "A military-grade fragmentation hand grenade.  Use this item to pull the pin and start the fuse.  You will then have five seconds before it explodes; throwing it would be a good idea.",
     "weight": "397 g",
@@ -13,7 +13,7 @@
   {
     "id": "grenade_act",
     "copy-from": "grenade_act",
-    "type": "TOOL",
+    "type": "ITEM",
     "name": { "str": "M67 grenade" },
     "description": "This fragmentation grenade is active, and will explode any second now.  Better throw it!",
     "weight": "397 g",
@@ -24,7 +24,7 @@
   {
     "id": "grenade_inc",
     "copy-from": "grenade_inc",
-    "type": "TOOL",
+    "type": "ITEM",
     "name": { "str": "AN-M14 incendiary grenade" },
     "description": "A military-grade incendiary hand grenade.  Use this item to pull the pin and start the fuse.  You will then have five seconds before it explodes into a raging inferno; throwing it would be a good idea.",
     "price": "20 USD",
@@ -33,7 +33,7 @@
   {
     "id": "grenade_inc_act",
     "copy-from": "grenade_inc_act",
-    "type": "TOOL",
+    "type": "ITEM",
     "name": { "str": "AN-M14 incendiary grenade" },
     "description": "An active incendiary hand grenade, likely to burst into an inferno any second now.  Better throw it!",
     "price": "20 USD",
@@ -42,7 +42,7 @@
   {
     "id": "smokebomb",
     "copy-from": "smokebomb",
-    "type": "GENERIC",
+    "type": "ITEM",
     "name": { "str": "M83 smoke grenade" },
     "description": "A canister grenade filled with a variety of pyrotechnic chemicals.  Use this item to pull the pin and start the fuse, turning it into an active smoke bomb.  Five seconds after you do that, it will begin to expel a thick white smoke.  This smoke will slow those who enter it, as well as obscuring vision and scent.",
     "weight": "569 g",
@@ -53,7 +53,7 @@
   {
     "id": "smokebomb_act",
     "copy-from": "smokebomb_act",
-    "type": "GENERIC",
+    "type": "ITEM",
     "name": { "str": "M83 smoke grenade" },
     "description": "This smoke bomb has had its pin removed and is (or will shortly be) expelling thick smoke.",
     "weight": "569 g",
@@ -64,7 +64,7 @@
   {
     "id": "gasbomb",
     "copy-from": "gasbomb",
-    "type": "GENERIC",
+    "type": "ITEM",
     "name": { "str": "M7A2 CS gas grenade" },
     "description": "A canister grenade filled with noxious irritant.  Use this item to pull the pin and start the fuse, turning it into an active tear gas grenade.  In five seconds it will begin to expel a highly toxic gas for some time.  This gas damages and slows those who enter it, as well as obscuring vision and scent.",
     "weight": "1058 g",
@@ -75,7 +75,7 @@
   {
     "id": "gasbomb_act",
     "copy-from": "gasbomb_act",
-    "type": "GENERIC",
+    "type": "ITEM",
     "name": { "str": "M7A2 CS gas grenade" },
     "description": "This tear gas grenade has had its pin removed and is (or will shortly be) expelling highly noxious gas.",
     "weight": "1058 g",
@@ -86,7 +86,7 @@
   {
     "id": "flashbang",
     "copy-from": "flashbang",
-    "type": "TOOL",
+    "type": "ITEM",
     "name": { "str": "M84 stun grenade" },
     "description": "A military-grade stun grenade or \"flashbang\".  Use this item to pull the pin and start the fuse.  You will then have five seconds before it detonates with intense light and sound, blinding, deafening, and disorienting anyone nearby.",
     "weight": "374 g",
@@ -105,7 +105,7 @@
   {
     "id": "flashbang_act",
     "copy-from": "flashbang_act",
-    "type": "TOOL",
+    "type": "ITEM",
     "name": { "str": "M84 stun grenade" },
     "description": "This stun grenade is active, and will soon detonate with intense light and sound, blinding, deafening, and disorienting anyone nearby.  It may be a good idea to throw it!",
     "weight": "374 g",

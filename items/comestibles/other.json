@@ -2,7 +2,7 @@
   {
     "id": "gum",
     "copy-from": "gum",
-    "type": "COMESTIBLE",
+    "type": "ITEM",
     "name": { "str_sp": "chewing gum" },
     "description": "Sugar-free chewing gum.",
     "//": "Variants removed",

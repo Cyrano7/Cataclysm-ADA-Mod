@@ -2,7 +2,7 @@
   {
     "id": "bayonet_ak",
     "copy-from": "knife_combat_army",
-    "type": "TOOL",
+    "type": "ITEM",
     "name": { "str": "AK Bayonet" },
     "description": "A sturdy bayonet for AK pattern rifles.  The blade is made of thick steel and the handle of a durable plastic.  It features a mediocre metal saw on the spine of the blade.",
     "//": "Weight and total length values based off Russian Wikipedia page for 6H4",

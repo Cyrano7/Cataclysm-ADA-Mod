@@ -2,7 +2,7 @@
   {
     "id": "honey_bottled",
     "copy-from": "honey_bottled",
-    "type": "COMESTIBLE",
+    "type": "ITEM",
     "name": { "str_sp": "liquid honey" },
     "description": "Honey, that stuff bees make.  This one is in liquid form.  It never spoils, and is good for your digestion."
   }

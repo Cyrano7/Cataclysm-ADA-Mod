@@ -2,7 +2,7 @@
   {
     "id": "condom",
     "copy-from": "condom",
-    "type": "GENERIC",
+    "type": "ITEM",
     "name": { "str": "condom" },
     "description": "A gentleman's balloon.  A single-use life preventer.  A thumbless latex mitten.  This could be used as a makeshift container for liquids, but otherwise it's anyone's guess what it's for.",
     "//": "Variants removed",
@@ -13,7 +13,7 @@
   {
     "id": "condom_sealed",
     "copy-from": "condom_sealed",
-    "type": "GENERIC",
+    "type": "ITEM",
     "name": { "str": "sealed condom" },
     "description": "A sealed condom wrapper, activate to open it.",
     "price": "50 cent",

@@ -2,7 +2,7 @@
   {
     "id": "akmag10",
     "copy-from": "akmag10",
-    "type": "MAGAZINE",
+    "type": "ITEM",
     "name": { "str": "AK 10-round magazine" },
     "description": "A compact 10-round magazine for 7.62x39mm AK-pattern rifles, made of stamped sheet steel.",
     "variant_type": "gun",
@@ -31,7 +31,7 @@
   {
     "id": "akmag20",
     "copy-from": "akmag20",
-    "type": "MAGAZINE",
+    "type": "ITEM",
     "name": { "str": "AK 20-round magazine" },
     "description": "A compact 20-round magazine for 7.62x39mm AK-pattern rifles, made of stamped sheet steel.",
     "weight": "152 g",
@@ -44,7 +44,7 @@
   {
     "id": "akmag30",
     "copy-from": "akmag30",
-    "type": "MAGAZINE",
+    "type": "ITEM",
     "name": { "str": "AK 30-round magazine" },
     "description": "A standard 30-round magazine for 7.62x39mm AK-pattern rifles, made of stamped sheet steel.",
     "weight": "326 g",
@@ -57,7 +57,7 @@
   {
     "id": "akmag40",
     "copy-from": "akmag40",
-    "type": "MAGAZINE",
+    "type": "ITEM",
     "name": { "str": "AK 40-round magazine" },
     "description": "An extended 40-round magazine for 7.62x39mm AK-pattern rifles, made of stamped sheet steel.",
     "weight": "424 g",
@@ -70,7 +70,7 @@
   {
     "id": "akdrum75",
     "copy-from": "akdrum75",
-    "type": "MAGAZINE",
+    "type": "ITEM",
     "name": { "str": "AK 75-round drum magazine" },
     "description": "A bulky 75-round drum magazine for 7.62x39mm AK-pattern rifles, made of stamped sheet steel.",
     "weight": "1020 g",

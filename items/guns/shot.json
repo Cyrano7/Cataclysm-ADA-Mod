@@ -2,7 +2,7 @@
   {
     "id": "shotgun_izh18",
     "copy-from": "shotgun_s",
-    "type": "GUN",
+    "type": "ITEM",
     "name": { "str": "IZh-18 single barrel shotgun" },
     "description": "A hammerless break action shotgun.  It features a single smoothbore barrel and a wooden stock and fore-end",
     "//": "Values based off Wikipedia page",
@@ -21,7 +21,7 @@
   {
     "id": "shotgun_izh27",
     "copy-from": "shotgun_d",
-    "type": "GUN",
+    "type": "ITEM",
     "name": { "str": "IZh-27 double barrel shotgun" },
     "description": "A hammerless break action shotgun.  It features a pair of over and under stacked barrels and a wooden stock and fore-end.",
     "//": "Values based off Wikipedia page",
@@ -63,7 +63,7 @@
   {
     "id": "shotgun_toz66",
     "copy-from": "shotgun_d",
-    "type": "GUN",
+    "type": "ITEM",
     "name": { "str": "TOZ-66 double barrel shotgun" },
     "description": "An old break action hammer fired shotgun.  It features a pair of side by side barrels and a wooden stock and fore-end.",
     "//": "Values based off Wikipedia page",

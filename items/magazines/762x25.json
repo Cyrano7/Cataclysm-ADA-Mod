@@ -2,7 +2,7 @@
   {
     "id": "tokarevmag",
     "copy-from": "tokarevmag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
     "name": { "str": "Tokarev 8-round magazine" },
     "description": "A standard 8-round magazine for the Tokarev pistol.",
     "variant_type": "gun",
@@ -19,7 +19,7 @@
   {
     "id": "ppshmag",
     "copy-from": "thompson_bigmag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
     "name": { "str": "PPSh 35-round magazine" },
     "description": "A 35-round box magazine for the PPSh-41.",
     "weight": "312 g",
@@ -33,7 +33,7 @@
   {
     "id": "ppshdrum",
     "copy-from": "ppshmag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
     "name": { "str": "PPSh 71-round drum magazine" },
     "description": "A 71-round drum magazine for the PPSh-41.",
     "weight": "1760 g",
@@ -48,7 +48,7 @@
   {
     "id": "ppsmag",
     "copy-from": "ppshmag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
     "name": { "str": "PPS 35-round magazine" },
     "description": "A 35-round box magazine for the PPS-43.",
     "variant_type": "gun",

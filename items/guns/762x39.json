@@ -2,7 +2,7 @@
   {
     "id": "sks",
     "copy-from": "sks",
-    "type": "GUN",
+    "type": "ITEM",
     "name": { "str": "SKS rifle" },
     "description": "A semi-automatic rifle chambered in 7.62x39mm, it features a deploy-able integrated bayonet.",
     "variant_type": "gun",
@@ -33,7 +33,7 @@
   {
     "id": "sks_d",
     "copy-from": "sks",
-    "type": "GUN",
+    "type": "ITEM",
     "name": { "str": "Type 56 Mod D SKS rifle" },
     "description": "A semi-automatic rifle chambered in 7.62x39mm, it is loaded from standard AK magazines and features a deploy-able integrated bayonet.  Judging by the charterers and markings stamped on it, this appears to have been produced in China.",
     "price": "400 USD",
@@ -50,7 +50,7 @@
   {
     "id": "akm",
     "copy-from": "ak47",
-    "type": "GUN",
+    "type": "ITEM",
     "name": { "str": "AKM rifle" },
     "description": "One of the most recognizable assault rifles ever made, the AKM is renowned for its durability even under the worst conditions.",
     "variant_type": "gun",
@@ -80,7 +80,7 @@
   {
     "id": "akm_semi",
     "copy-from": "akm",
-    "type": "GUN",
+    "type": "ITEM",
     "name": { "str": "AKM Semi-auto rifle" },
     "description": "Civilian-legal clones of the AK-47, with no ability to fire full-auto.  Despite lacking that ability, they're still reliable and useful rifles.",
     "variant_type": "gun",
